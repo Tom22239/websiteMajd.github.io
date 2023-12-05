@@ -13,7 +13,7 @@ body {
 
 /* Navigatie menu stijlen */
 nav {
-  background-color: #34495e;
+  background-color: #2f4950;
 }
 
 .nav-menu {
@@ -31,7 +31,7 @@ nav {
   display: block;
   padding: 0.5rem 1rem;
   text-decoration: none;
-  color: #fff;
+  color: #301af7;
 }
 
 .menu-logo {
@@ -49,11 +49,11 @@ nav {
   position: absolute;
   left: 0;
   top: 100%;
-  background-color: #f1c40f;
+  background-color: #000000;
   list-style-type: none;
   margin: 0;
   padding: 0.5rem;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 4px rgba(255, 0, 0, 0.1);
   min-width: 150px;
   transition: opacity 0.3s, visibility 0.3s;
 }
