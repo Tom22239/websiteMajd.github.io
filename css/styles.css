@@ -49,7 +49,7 @@ nav {
   position: absolute;
   left: 0;
   top: 100%;
-  background-color: #6f8ceb;
+  background-color: #b4a6a6;
   list-style-type: none;
   margin: 0;
   padding: 0.5rem;
@@ -69,7 +69,7 @@ nav {
 
 .nav-menu a:hover,
 .nav-menu li:hover > a {
-  background-color: #437380;
+  background-color: #5ba4b8;
 }
 
 /* Sectie stijlen */
